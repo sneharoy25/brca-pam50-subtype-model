@@ -1,0 +1,3 @@
+Model,CV_accuracy,CV_balanced_accuracy,CV_macro_F1
+LogReg,0.888,0.879,0.869
+RandomForest,0.876,0.82,0.843

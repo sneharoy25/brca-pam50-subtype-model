@@ -1,0 +1,3 @@
+Direction,n_test,Accuracy,Macro_F1,Macro_AUC_ovr,LumB_AUC
+TCGA -> GEO,982,0.814,0.769,0.955,0.92
+GEO -> TCGA,1043,0.798,0.777,0.97,0.918
